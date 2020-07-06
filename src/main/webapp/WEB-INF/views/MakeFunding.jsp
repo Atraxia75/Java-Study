@@ -63,18 +63,18 @@
 	rel="stylesheet">
 
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/common.min.css?v=20200416_001">
+	href="./resources/crowdyCss/common.min.css?v=20200416_001">
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/theme.min.css?v=20200407_001">
+	href="./resources/crowdyCss/theme.min.css?v=20200407_001">
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/custom.min.css?v=20200429_001">
+	href="./resources/crowdyCss/custom.min.css?v=20200429_001">
 
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/crowdy/crowdy.min.css?v=20200615_002">
+	href="./resources/crowdyCss/crowdy/crowdy.min.css?v=20200615_002">
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/crowdy/crowdyCardUI.min.css?v=20200515_002">
+	href="./resources/crowdyCss/crowdy/crowdyCardUI.min.css?v=20200515_002">
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/crowdy/datepickerCustom.css">
+	href="./resources/crowdyCss/crowdy/datepickerCustom.css">
 
 
 
@@ -134,7 +134,7 @@
 
 
 <script
-	src="//image-se.ycrowdy.com/crowdyDist/component_crowdy.9882b38a749b10cc7295.js"></script>
+	src="./resources/crowdyJs/component_crowdy.js"></script>
 
 
 <script>
@@ -692,15 +692,15 @@ rotate
 		href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css"
 		rel="stylesheet">
 	<link rel="stylesheet"
-		href="//image-se.ycrowdy.com/crowdyCss/select-box.min.css?v=20191202">
+		href="./resources/crowdyCss/select-box.min.css">
 
 
 	<!-- dropify.css가 수정되어 있기 때문에 cdn에 있는 내용과 다름 -->
-	<link href="/resources/vendor/dropify/dropify.min.css" rel="stylesheet">
+	<link href="./resources/dropify/dropify.min.css" rel="stylesheet">
 
 
 	<link rel="stylesheet"
-		href="//image-se.ycrowdy.com/crowdyCss/custom_shinhan.min.css?v=20191202">
+		href="./resources/crowdyCss/custom_shinhan.min.css">
 
 
 	<link
@@ -713,7 +713,7 @@ rotate
 		src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
 
 
-	<script src="//image-se.ycrowdy.com/crowdyJs/vuejs-paginate.min.js"></script>
+	<script src="./resources/crowdyJs/vuejs-paginate.min.js"></script>
 
 
 	<script async="" defer=""
@@ -745,7 +745,7 @@ rotate
 
 
 	<script
-		src="//image-se.ycrowdy.com/crowdyJs/jquery.fileDownload.min.js"></script>
+		src="./resources/crowdyJs/jquery.fileDownload.min.js"></script>
 
 
 	<script
@@ -756,7 +756,7 @@ rotate
 		src="//static.nid.naver.com/js/naverLogin_implicit-1.0.3.js"></script>
 	<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
 	<script
-		src="//image-se.ycrowdy.com/crowdyJs/customer.script.min.js?v20191108"></script>
+		src="./resources/crowdyJs/customer.script.min.js"></script>
 	<script
 		src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
 
@@ -769,11 +769,11 @@ rotate
 
 
 	<script
-		src="//image-se.ycrowdy.com/crowdyDist/component_common.a0d9f04e3af5988865fe.js"></script>
+		src="./resources/crowdyJs/component_common.js"></script>
 
 
 	<script
-		src="//image-se.ycrowdy.com/crowdyDist/component_mypage.c017d6cc38fa1fc45d32.js"></script>
+		src="./resources/crowdyJs/component_mypage.js"></script>
 
 
 	<div class="page-wrapper">
@@ -849,7 +849,8 @@ rotate
 								<div class="input-group">
 									<span type="text" class="form-control"></span>
 								</div>
-							</form>
+							</form//image-se.ycrowdy.com/
+							>
 						</div>
 						<a href="/" class="mobile-brand">CROWDY</a>
 						<div class="gnb_card_background"></div>
