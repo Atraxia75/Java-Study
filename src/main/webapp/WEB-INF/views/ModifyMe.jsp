@@ -64,18 +64,18 @@
 	rel="stylesheet">
 
 	<link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/common.min.css?v=20200416_001">
+	href="./resources/crowdyCss/common.min.css?v=20200416_001">
 	<link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/theme.min.css?v=20200407_001">
+	href="./resources/crowdyCss/theme.min.css?v=20200407_001">
     <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/custom.min.css?v=20200429_001">
+	href="./resources/crowdyCss/custom.min.css?v=20200429_001">
     
     <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/crowdy/crowdy.min.css?v=20200615_002">
+	href="./resources/crowdyCss/crowdy/crowdy.min.css?v=20200615_002">
     <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/crowdy/crowdyCardUI.min.css?v=20200515_002">
+	href="./resources/crowdyCss/crowdy/crowdyCardUI.min.css?v=20200515_002">
     <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/crowdy/datepickerCustom.css">
+	href="./resources/crowdyCss/crowdy/datepickerCustom.css">
 
     
     
@@ -136,7 +136,7 @@
     
     
 	<script
-	src="//image-se.ycrowdy.com/crowdyDist/component_crowdy.9882b38a749b10cc7295.js"></script>
+	src="./resources/crowdyJs/component_crowdy.js"></script>
 
     
     <script>

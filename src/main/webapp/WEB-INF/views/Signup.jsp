@@ -62,18 +62,18 @@
 	rel="stylesheet">
 
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/common.min.css?v=20200416_001">
+	href="./resources/crowdyCss/common.min.css?v=20200416_001">
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/theme.min.css?v=20200407_001">
+	href="./resources/crowdyCss/theme.min.css?v=20200407_001">
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/custom.min.css?v=20200429_001">
+	href="./resources/crowdyCss/custom.min.css?v=20200429_001">
 
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/crowdy/crowdy.min.css?v=20200615_002">
+	href="./resources/crowdyCss/crowdy/crowdy.min.css?v=20200615_002">
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/crowdy/crowdyCardUI.min.css?v=20200515_002">
+	href="./resources/crowdyCss/crowdy/crowdyCardUI.min.css?v=20200515_002">
 <link rel="stylesheet"
-	href="//image-se.ycrowdy.com/crowdyCss/crowdy/datepickerCustom.css">
+	href="./resources/crowdyCss/crowdy/datepickerCustom.css">
 
 
 
@@ -131,7 +131,7 @@
 
 
 <script
-	src="//image-se.ycrowdy.com/crowdyDist/component_crowdy.9882b38a749b10cc7295.js"></script>
+	src="./resources/crowdyJs/component_crowdy.js"></script>
 
 
 <script>
@@ -673,11 +673,11 @@ rotate(
 		href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css"
 		rel="stylesheet">
 	<link rel="stylesheet"
-		href="//image-se.ycrowdy.com/crowdyCss/select-box.min.css?v=20191202">
+		href="./resources/crowdyCss/select-box.min.css?v=20191202">
 
 
 	<!-- dropify.css가 수정되어 있기 때문에 cdn에 있는 내용과 다름 -->
-	<link href="/resources/vendor/dropify/dropify.min.css" rel="stylesheet">
+	<link href="./resources/dropify/dropify.min.css" rel="stylesheet">
 
 
 	<!-- bootstrap-tokenfield.css가 수정되어 있기 때문에 cdn에 있는 내용과 다름 -> 그걸 가지고 min 다시 만듬 -->
@@ -687,11 +687,11 @@ rotate(
 
 
 	<link rel="stylesheet"
-		href="//image-se.ycrowdy.com/crowdyCss/custom_shinhan.min.css?v=20191202">
+		href="./resources/crowdyCss/custom_shinhan.min.css">
 
 
 	<link rel="stylesheet"
-		href="//image-se.ycrowdy.com/crowdyCss/custom-tinymce.min.css">
+		href="./resources/crowdyCss/custom-tinymce.min.css">
 
 
 
@@ -701,7 +701,7 @@ rotate(
 
 	<script
 		src="//cdnjs.cloudflare.com/ajax/libs/accounting.js/0.4.1/accounting.min.js"></script>
-	<script src="//image-se.ycrowdy.com/crowdyJs/vue-numeric.min.js"></script>
+	<script src="./resources/crowdyJs/vue-numeric.min.js"></script>
 
 
 	<script
@@ -737,14 +737,14 @@ g(c);c.getInstance=function(a){a=(a&&0!==a.length?a:"$default_instance").toLower
 		src="//static.nid.naver.com/js/naverLogin_implicit-1.0.3.js"></script>
 	<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
 	<script
-		src="//image-se.ycrowdy.com/crowdyJs/customer.script.min.js?v20191108"></script>
+		src="./resources/crowdyJs/customer.script.min.js"></script>
 	<script
 		src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
 
 
 
 	<script
-		src="//image-se.ycrowdy.com/crowdyDist/component_make.78556e858fecc05fe27d.js"></script>
+		src="./resources/crowdyJs/component_make.js"></script>
 
 
 	<div class="page-wrapper" id="page">
